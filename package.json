@@ -1,6 +1,6 @@
 {
   "name": "antjs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Ant.js Promise module loader",
   "keywords": ["loader", "module", "promise"],
   "main": "ant.js",
@@ -18,9 +18,9 @@
     "url": "git://github.com/bergos/antjs.git"
   },
   "dependencies": {
-    "lodash": "3.*"
+    "lodash": "^3.9.3"
   },
   "devDependencies": {
-    "mocha": "2.*"
+    "mocha": "^2.2.5"
   }
 }
